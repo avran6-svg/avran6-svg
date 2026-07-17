@@ -131,34 +131,6 @@ Estoy profundizando en:
 * Inteligencia artificial.
 * Desarrollo de proyectos profesionales con Python.
 
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&locale=es&include_all_commits=true&count_private=true"
-alt="Estadísticas de GitHub"
-/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&locale=es&langs_count=8"
-alt="Lenguajes más utilizados"
-/>
-
-<br/>
-
-<img
-src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&locale=es"
-alt="Racha de contribuciones en GitHub"
-/>
-
-</div>
-
----
 
 ## 🏆 Trofeos de GitHub
 
